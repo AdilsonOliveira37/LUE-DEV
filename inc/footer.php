@@ -39,13 +39,13 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
     <!-- Bootstrap -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
 
 	<!-- JS Base de todas as páginas -->
-    <script src="js/base.js"></script>
+    <script src="/js/base.js"></script>
 
 	<!-- Slick JS -->
-    <script type="text/javascript" src="js/slick.min.js"></script>
+    <script type="text/javascript" src="/js/slick.min.js"></script>
 
 	<!-- JS Específico da página atual -->
     <?php
