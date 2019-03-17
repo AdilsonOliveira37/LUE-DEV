@@ -68,23 +68,27 @@
 		<div class="row">
 			<div class="col-md-2 col-sm-0"></div>
 			<div class="col-md-2 col-sm-3 col-xs-6">
-				<img src="img/home/01_RaphaelMobis.png" alt = "Raphael Mobis" class="img-time1">
+				<img src="img/nucleos/esports.svg" alt = "E-Sports" class="img-time1">
 			</div>
 			<div class="col-md-2 col-sm-3 col-xs-6">
-				<img src="img/home/02_LuisaRibeiro.png" alt="Luisa Ribeiro" class="img-time1">
+				<img src="img/nucleos/financeiro.svg" alt="Financeiro" class="img-time1">
 			</div>
 			<div class="col-md-2 col-sm-3 col-xs-6">
-				<img src="img/home/03_IsabelaCapristano.png" alt="Isabela Capristano" class="img-time1">
-			</div>
+				<img src="img/nucleos/marketing.svg" alt="Marketing" class="img-time1">
+            </div>
 			<div class="col-md-2 col-sm-3 col-xs-6">
-				<img src="img/home/04_KarlaPereira1.png" alt="Karla Pereira" class="img-time1">
+				<img src="img/nucleos/operacional.svg" alt="Operacional" class="img-time1">
 			</div>
+            <div class="col-md-2 col-sm-3 col-xs-6">
+                <img src="img/nucleos/presidencia.svg" alt="Presidencia" class="img-time1">
+            </div>
 			<div class="col-md-2 col-sm-0"></div>
 		</div>
-		<div class="row marge">
+        <!--
+        <div class="row marge">
 			<div class="col-md-1 col-sm-1 col-xs-0"></div>
-			<div class="col-md-2 col-sm-2 col-xs-6">
-				<img src="img/home/05_Vinicius Marmoro.png" alt = "Vinicius Marmoro" class="img-time2">
+			<div class="col-md-2 col-sm-2 col-xs-6"class>
+				<img src="img/home/05_Vinicius Marmoro.png" alt = "  Marmoro" class="img-time2">
 			</div>
 			<div class="col-md-2 col-sm-2 col-xs-6">
 				<img src="img/home/06_EduardoVieira.png" alt="Eduardo Vieira" class="img-time2">
@@ -99,7 +103,7 @@
 				<img src="img/home/09_SamuelHenrique.png" alt="Samuel Henrique" class="img-time2">
 			</div>
 			<div class="col-md-1 col-sm-1 col-xs-0"></div>
-		</div>
+		</div>  -->
 		<div class = "row">
 			<div class="col-md-12">
 				<a class="btn botao marge marge-botao" href="index.php#contato" role="button">Fazer parte da <b>Equipe</b></a>
